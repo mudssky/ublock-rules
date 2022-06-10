@@ -1,4 +1,4 @@
-import { SiteRule } from './types'
+import { SiteRule } from '../types'
 
 export const rules: SiteRule[] = [
   {
